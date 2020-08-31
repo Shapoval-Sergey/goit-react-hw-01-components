@@ -1,0 +1,34 @@
+.statistics {
+  width: 300px;
+}
+
+.title {
+  padding: 0;
+  margin: 0;
+  display: block;
+  padding-bottom: 15px;
+  padding-top: 15px;
+  background-color: palegoldenrod;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.statList {
+  padding: 0;
+  margin: 0;
+  color: #ffffff;
+  padding: 0px;
+  display: flex;
+  list-style: none;
+}
+
+.item {
+  width: 75px;
+  text-align: center;
+}
+
+.label {
+  display: block;
+}
